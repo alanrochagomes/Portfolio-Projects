@@ -1,2 +1,3 @@
-# Portfolio
-Site Portfolio feito em HTML CSS JS e SCSS
+# Portfolio de Projects
+
+Site Portfolio de Projetos feito em HTML CSS JS e SCSS!
